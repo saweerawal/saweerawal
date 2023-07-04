@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Sawee Rawal, currently working as a Software Engineer at Raintree Systems with an experience of 1 year 6 months. As I did Bachelor's of Engineering in Computer Science and Engineering Field, I have also been a 3 star coder <a href="https://www.codechef.com/users/sawee" target="_blank">@Codechef</a>. I usually like to code in C++ and Python. Also skilled in the core fundamentals like Data Structure and Algorithms (DSA), Object Oriented Programming Systems (OOPS), Database Management Systems (DBMS).
+### I'm Sawee Rawal, currently working as a Software Engineering Specialist at General Electric with a total experience of 2 years 6 months. As I did Bachelor's of Engineering in Computer Science and Engineering Field, I have also been a 3 star coder <a href="https://www.codechef.com/users/sawee" target="_blank">@Codechef</a>. I usually like to code in C++ and Python. Also skilled in the core fundamentals like Data Structure and Algorithms (DSA), Object Oriented Programming Systems (OOPS), Database Management Systems (DBMS).
 
  Visit: [Portfolio](https://sawee-rawal.netlify.app)
 
